@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int sum_to(int n)
 {
@@ -13,4 +13,4 @@ int main(void)
 {
     printf("%d\n", sum_to(5));
     return 0;
-}*/
+}
